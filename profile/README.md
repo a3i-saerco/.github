@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/saerco logo.png" alt="SAERCO" width="400"/>
+  <img src="../assets/SAERCO-logo.png" alt="SAERCO" width="400"/>
 </p>
 <p align="center">
   <a href="https://www.saerco.com" target="_blank">www.saerco.com</a>
