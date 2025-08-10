@@ -1,11 +1,9 @@
-<table width="100%">
-<tr>
-<td align="center" bgcolor="white">
-<img src="../assets/saerco-logo.png" alt="SAERCO" width="400"/><br/>
-<a href="https://www.saerco.com" target="_blank">www.saerco.com</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="../assets/saerco-logo.png" alt="SAERCO" width="400"/>
+</p>
+<p align="center">
+  <a href="https://www.saerco.com" target="_blank">www.saerco.com</a>
+</p>
 
 # 🧠 A3I — Apps of Advanced Artificial Intelligence by (c) SAERCO
 
