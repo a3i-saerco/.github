@@ -5,7 +5,7 @@
   <a href="https://www.saerco.com" target="_blank">www.saerco.com</a>
 </p>
 
-# 🧠 A3I — Aplicaciones Avanzadas con Inteligencia Artificial en SAERCO
+# 🧠 A3I — Apps of Advanced Artificial Intelligence by (c) SAERCO
 
 **A3I** es el departamento de SAERCO dedicado a diseñar, desarrollar y desplegar aplicaciones avanzadas que integran **modelos de IA**, **automatización de procesos** y **entornos low-code** para optimizar los flujos de trabajo críticos de la organización.
 
